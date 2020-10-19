@@ -1,0 +1,10 @@
+{
+	"ID": {
+		"Script": "Arsenal",
+		"GameName": "Arsenal"
+	},
+	"ID": {
+		"Script": "PrisonLife",
+		"GameName": "Prison Life"
+	}
+}
