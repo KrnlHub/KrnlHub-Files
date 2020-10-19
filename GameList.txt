@@ -1,9 +1,9 @@
 {
-	"ID": {
+	"286090429": {
 		"Script": "Arsenal",
 		"GameName": "Arsenal"
 	},
-	"ID": {
+	"155615604": {
 		"Script": "PrisonLife",
 		"GameName": "Prison Life"
 	}
